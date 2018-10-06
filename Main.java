@@ -9,15 +9,15 @@ public class Main
         n = s.nextInt();
         if(n > 0)
         {
-            System.out.println("The given number "+n+" is Positive");
+            System.out.println("Positive");
         }
         else if(n < 0)
         {
-            System.out.println("The given number "+n+" is Negative");
+            System.out.println("Negative");
         }
         else
         {
-            System.out.println("The given number "+n+" zero ");
+            System.out.println("zero");
         }
     }
 }
