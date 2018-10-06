@@ -10,7 +10,7 @@ public class Even {
         int num = reader.nextInt();
 
         if(num % 2 == 0)
-            System.out.println("valid");
+            System.out.println("even");
         else
             System.out.println("invalid");
     }
