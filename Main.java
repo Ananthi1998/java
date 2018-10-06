@@ -17,7 +17,7 @@ public class Main
         }
         else
         {
-            System.out.println("The given number "+n+" is neither Positive nor Negative ");
+            System.out.println("The given number "+n+" zero ");
         }
     }
 }
